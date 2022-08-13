@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">This is Home Page</string>
+    <string name="contact">This is Contact Page</string>
+    <string name="profile">This is My Profile</string>
+    <string name="Utility">This are My Utilities</string>
+    <string name="search">This is Search Page</string>
+</resources>
