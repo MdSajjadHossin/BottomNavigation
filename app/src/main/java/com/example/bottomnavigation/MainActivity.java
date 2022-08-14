@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
                     loadFragment(new ProfileFragment(), 1);
                 }
 
-                return false;
+                return true;
             }
         });
         bottomNavView.setSelectedItemId(R.id.profile);
